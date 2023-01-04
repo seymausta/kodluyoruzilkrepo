@@ -19,6 +19,9 @@ Linux için:
 cd kodluyoruzilkrepo
 code .
 ```
+## Link
+
+[Patika.dev profil linki](https://app.patika.dev/seymausta)
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
